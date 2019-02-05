@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class CryptographicAlgorithm {
+public class CryptographicAlgorithmConsole {
 
 	public static BigInteger[][] generateKeys(int seed, int length) {
 
